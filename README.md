@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Cryptocurrencies Clustered using Unsupervised Machine Learning
 ## Overview
 In order to assist an investment banking firm in offering new cryptocurrency investment options to their customers portfolio, I have created a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
